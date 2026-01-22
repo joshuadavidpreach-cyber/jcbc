@@ -1,0 +1,8 @@
+{
+  "name": "Jesus Culture Bible Church Portal",
+  "description": "The authorized digital remnant portal for Jesus Culture Bible Church. Features RhemaFire Devotionals, Saints Army Podcast, and Truth Bible Academy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
